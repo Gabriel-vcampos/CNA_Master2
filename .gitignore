@@ -1,0 +1,4 @@
+node_modules
+dist
+# Arquivos originais das imagens (só backup local; não são usados no site)
+originals/
